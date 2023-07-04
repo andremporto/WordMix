@@ -9,13 +9,14 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
             Text("Hello, world!")
+            .padding()
         }
-        .padding()
+        
+    func loadFile() {
+        if let fileURL = Bundle.main.url(forResource: "Some file", withExtension: "txt") {
+            
+        }
     }
 }
 
