@@ -1,4 +1,4 @@
-# WordMix
+![WordMix](https://socialify.git.ci/andremporto/WordMix/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Auto)
 
 The game will show players a random eight-letter word, and ask them to make words out of it.
 
